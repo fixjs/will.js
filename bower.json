@@ -1,0 +1,20 @@
+{
+  "name": "willjs",
+  "description": "A simple implementation of Promises",
+  "version": "0.0.1",
+  "main": "will.js",
+  "ignore": [
+    "test",
+    ".jshintrc",
+    ".travis.yml",
+    "CHANGELOG.md",
+    "karma.conf.js",
+    "package.json"
+  ],
+  "devDependencies": {
+    "chai": "*"
+  },
+  "dependencies": {
+    "es6-collections": "*"
+  }
+}

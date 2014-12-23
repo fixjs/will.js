@@ -1,0 +1,4 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>WillJS Promise library</title></head><body>  <script src="bower_components/es6-collections/es6-collections.js"></script>  <script src="lib/q.js"></script>  <script>    var fix = {};    window.fix = fix;  </script>  <script src="bower_components/definejs/define.js" global="fix"></script>  <script>    fix.config({      paths:{        lib:'lib'      }    });    fix.require(['will'], function(will){      alert(will);      window._willl = will;    });  </script></body></html>

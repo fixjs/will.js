@@ -1,0 +1,14 @@
+{
+  "name": "es6-collections",
+  "homepage": "https://github.com/WebReflection/es6-collections",
+  "_release": "d4e350788a",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "d4e350788a420402ad3da41ec923d533ecc4c768"
+  },
+  "_source": "git://github.com/WebReflection/es6-collections.git",
+  "_target": "*",
+  "_originalSource": "es6-collections",
+  "_direct": true
+}
